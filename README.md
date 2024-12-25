@@ -4,13 +4,38 @@
 <h2 align="left">Education</h2>
 <p align="left">Faculty of Science students, Computer Science Program, Chiang Mai University</p>
 
+
 <h2 align="left">Project</h2>
 <ul>
-<li>Jul 2024 – Oct 2024 <strong>Interactive Website for Therapeutic Communication</strong></li>
-<li>Dec 2024 <strong>Recipe Website</strong></li>
-<li>Jan 2024 – Mar 2024 <strong>EventSpark Event Services Website</strong></li>
-<li>Feb 2023 – Mar 2023 <strong>Pandoda RPG Game</strong></li>
+  <li>Jul 2024 – Oct 2024 <strong>Interactive Website for Therapeutic Communication</strong></li>
+  <ul>
+    <li>Collaborated with a team to develop an interactive website aimed at educating users on effective nursing communication in patient care as part of my Software Engineering course.</li>
+    <li>Served as the Requirements Manager, responsible for gathering, analyzing, and evaluating client requirements to ensure alignment with project goals.</li>
+    <li>Engaged in requirements analysis, database design, and the development of core functionalities to enhance user experience and site effectiveness.</li>
+  </ul>
+
+  <li>Dec 2024 <strong>Recipe Website</strong></li>
+  <ul>
+    <li>I wanted to learn how to create websites using React, so I built a small website as a guide to understanding the basics of React.</li>
+    <li>This project is part of my self-development as a Frontend Developer.</li>
+  </ul>
+
+  <li>Jan 2024 – Mar 2024 <strong>EventSpark Event Services Website</strong></li>
+  <ul>
+    <li>Collaborated with a team to develop a website for an event services platform as part of the Modern Application Development course.</li>
+    <li>Designed to enable users to publish their events and register for others, enhancing community engagement.</li>
+    <li>Played a key role in UX/UI design, focusing on creating an intuitive and visually appealing user interface.</li>
+    <li>Worked effectively with team members to ensure project alignment and timely delivery.</li>
+  </ul>
+
+  <li>Feb 2023 – Mar 2023 <strong>Pandoda RPG Game</strong></li>
+  <ul>
+    <li>Collaborated with a team to design and develop a basic RPG game as part of the Introduction to Object-Oriented Programming course, applying core object-oriented programming principles.</li>
+    <li>Served as the graphic designer, responsible for creating visually engaging graphics and user interfaces to enhance the overall gaming experience.</li>
+    <li>Worked closely with team members to optimize game performance and ensure efficient resource management within a constrained timeline.</li>
+  </ul>
 </ul>
+
 
 <h2 align="left">How to reach me</h2>
 <ul>
