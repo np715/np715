@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Phatthanan Wannapan</h1>
 <p>A third-year Computer Science major, committed to learning and developing skills in programming and information technology.</p>
 
-<h2 align="left">EDUCATION</h2>
-<p align="left">Computer Science students, Chiang Mai University</p>
+<h2 align="left">Education</h2>
+<p align="left">Faculty of Science students, Computer Science Program, Chiang Mai University</p>
 
 <h2 align="left">Project</h2>
 <ul>
